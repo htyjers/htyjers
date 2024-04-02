@@ -1,4 +1,3 @@
-<p align="center">
 <a href="https://github.com/htyjers">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Haipeng+Liu;PhD+Student;Computer+Vision+%7C+Image+Inpainting" alt="Typing SVG" />
 </a>
@@ -20,12 +19,12 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=htyjers&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-</p>
 
 ### 🖥️ Open-Source Projects
-<table>
-<tr><th>Image Inpainting </th><tr>
-<tr><td>
+
+<details open>
+<summary>⭐️ <b>Image Inpainting</b> ⭐️</summary>
+<br>
 
 |Title | Stars | Publication Venue | Technologies |
 |:----------------:|:----------------:|:----------------:|:----------------:|
