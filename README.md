@@ -26,7 +26,7 @@
 <summary>⭐️ <b>Image Inpainting</b> ⭐️</summary>
 <br>
 
-|Title | Stars | Publication Venue | Technologies |
+|Repositories | Stars | Publication Venue | Technologies |
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | [DGTS](https://github.com/htyjers/DGTS-Inpainting) | <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/DGTS-Inpainting?style=flat-square&labelColor=black"/> |[ACM Multimedia 2022](https://arxiv.org/abs/2209.08217)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [StrDiffusion](https://github.com/htyjers/StrDiffusion) | <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/StrDiffusion?style=flat-square&labelColor=black"/> |[CVPR 2024](https://arxiv.org/abs/2403.19898)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
