@@ -22,12 +22,47 @@
 
 ### 🖥️ Open-Source Projects
 
+<!--
 <details open>
-<summary>⭐️ <b>Image Inpainting</b> ⭐️</summary>
+<summary>⭐️ <b>Image Inpainting: </b> ⭐️</summary>
 <br>
 
 |Repositories | Stars | Publication Venue | Technologies |
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | [StrDiffusion](https://github.com/htyjers/StrDiffusion) | <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/StrDiffusion?style=flat-square&labelColor=black"/> |[CVPR 2024](https://arxiv.org/abs/2403.19898)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
 | [DGTS](https://github.com/htyjers/DGTS-Inpainting) | <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/DGTS-Inpainting?style=flat-square&labelColor=black"/> |[ACM Multimedia 2022](https://arxiv.org/abs/2209.08217)| ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+</details>
 
+<a href="https://juleskreuer.eu/citation-badge/"><img alt="Citation Badge" src="https://api.juleskreuer.eu/citation-badge.php?doi=YOUR_DOI"></a>
+
+-->
+
+
+
+<details open>
+<summary>⭐️ <b>Image Inpainting</b> ⭐️</summary>
+<br>
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <div align="center">
+        <h2><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Structure_Matters_Tackling_the_Semantic_Discrepancy_in_Diffusion_Models_for_CVPR_2024_paper.html" target="_blank">CVPR 2024</a> | <a href="https://github.com/htyjers/StrDiffusion" target="_blank">StrDiffusion</a></h2>
+        <a href="https://api.star-history.com/svg?repos=htyjers/StrDiffusion&type=Date" target="_blank">
+            <img width="500" src="https://api.star-history.com/svg?repos=htyjers/StrDiffusion&type=Date" alt="Star History Chart">
+        </a>
+    </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <div align="center">
+        <h2><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548265" target="_blank">ACM MM 2022</a> | <a href="https://github.com/htyjers/DGTS-Inpainting" target="_blank">DGTS</a></h2>
+        <a href="https://api.star-history.com/svg?repos=htyjers/DGTS-Inpainting&type=Date" target="_blank">
+            <img width="500" src="https://api.star-history.com/svg?repos=htyjers/DGTS-Inpainting&type=Date" alt="Star History Chart">
+        </a>
+    </div>
+</body>
+</html>
