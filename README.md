@@ -33,7 +33,6 @@
 <details open>
 <summary>⭐️ <b>Image Inpainting </b> ⭐️</summary>
 <br>
-
 <!DOCTYPE html>
 <html lang="en">
 <body>
@@ -59,3 +58,22 @@
     </div>
 </body>
 </html>
+</details>
+
+
+<details open>
+<summary>⭐️ <b>Recommendation System </b> ⭐️</summary>
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <div align="center">
+        <h2><a href="" target="_blank"><a href="" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv--B31B1B.svg" alt="arXiv:"/></a> | <a href="https://github.com/htyjers/C2F-MetaEmbed" target="_blank">C2F-MetaEmbed <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/C2F-MetaEmbed?style=flat-square&labelColor=black"/></a></h2>
+        <a href="https://api.star-history.com/svg?repos=htyjers/C2F-MetaEmbed&type=Date" target="_blank">
+            <img width="500" src="https://api.star-history.com/svg?repos=htyjers/C2F-MetaEmbed&type=Date" alt="Star History Chart">
+        </a>
+    </div>
+</body>
+</html>
+</details>
