@@ -38,7 +38,8 @@
 <html lang="en">
 <body>
     <div align="center">
-        <h2><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Structure_Matters_Tackling_the_Semantic_Discrepancy_in_Diffusion_Models_for_CVPR_2024_paper.html" target="_blank">CVPR 2024</a> | <a href="https://github.com/htyjers/StrDiffusion" target="_blank">StrDiffusion <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/StrDiffusion?style=flat-square&labelColor=black"/></a></h2>
+        <h2><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Structure_Matters_Tackling_the_Semantic_Discrepancy_in_Diffusion_Models_for_CVPR_2024_paper.html" target="_blank">CVPR 2024 <a href="https://arxiv.org/abs/2403.19898" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2403.19898-B31B1B.svg" alt="arXiv:2403.19898"/></a> | <a href="https://github.com/htyjers/StrDiffusion" target="_blank">StrDiffusion <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/StrDiffusion?style=flat-square&labelColor=black"/></a></h2>
         <a href="https://api.star-history.com/svg?repos=htyjers/StrDiffusion&type=Date" target="_blank">
             <img width="500" src="https://api.star-history.com/svg?repos=htyjers/StrDiffusion&type=Date" alt="Star History Chart">
         </a>
@@ -50,7 +51,8 @@
 <html lang="en">
 <body>
     <div align="center">
-        <h2><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548265" target="_blank">ACM MM 2022</a> | <a href="https://github.com/htyjers/DGTS-Inpainting" target="_blank">DGTS <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/DGTS-Inpainting?style=flat-square&labelColor=black"/></a></h2>
+        <h2><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548265" target="_blank">ACM MM 2022<a href="https://arxiv.org/abs/2209.08217" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2209.08217-B31B1B.svg" alt="arXiv:2209.08217"/></a> | <a href="https://github.com/htyjers/DGTS-Inpainting" target="_blank">DGTS <img alt="Stars" src="https://img.shields.io/github/stars/htyjers/DGTS-Inpainting?style=flat-square&labelColor=black"/></a></h2>
         <a href="https://api.star-history.com/svg?repos=htyjers/DGTS-Inpainting&type=Date" target="_blank">
             <img width="500" src="https://api.star-history.com/svg?repos=htyjers/DGTS-Inpainting&type=Date" alt="Star History Chart">
         </a>
