@@ -31,7 +31,7 @@
 
 
 <details open>
-<summary>⭐️ <b>Image Inpainting </b> ⭐️</summary>
+<summary>⭐️ <b>Image Inpainting </b> </summary>
 <br>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,8 +61,8 @@
 </details>
 
 
-<details open>
-<summary>⭐️ <b>Recommendation System </b> ⭐️</summary>
+<details close>
+<summary> <b>Recommendation System </b> </summary>
 <br>
 <!DOCTYPE html>
 <html lang="en">
