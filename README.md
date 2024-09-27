@@ -30,7 +30,7 @@
 
 
 
-<details open>
+<details close>
 <summary>⭐️ <b>Image Inpainting </b> </summary>
 <br>
 <!DOCTYPE html>
