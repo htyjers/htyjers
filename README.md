@@ -6,7 +6,7 @@
 
 </div>
 
-I am a researcher working on **computer vision**, with a focus on
+Hi~, I am a researcher working on **computer vision**, with a focus on
 **diffusion models and personalized image generation**.
 
 ---
