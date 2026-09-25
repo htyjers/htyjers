@@ -153,11 +153,4 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 | **Thinking inside the Convolution for Image Inpainting: Reconstructing Texture via Structure under Global and Local Side** | *arXiv, 2026* | [Paper](https://arxiv.org/abs/2602.03013) · [Code](https://github.com/htyjers/ConvInpaint-TSGL) |
 | **AsyDiffusion** | — | [Code](https://github.com/htyjers/AsyDiffusion) |
 
----
-## ⭐ GitHub Star History
 
-<div align="center">
-
-<img src="./assets/total-stars.svg" width="95%" alt="Total GitHub Stars History"/>
-
-</div>
