@@ -47,6 +47,7 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 [📄 **Paper**](https://openreview.net/forum?id=l5xRQDiYkv)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [💻 **Code**](https://github.com/htyjers/Dual-FDM)
+<img src="https://img.shields.io/github/stars/htyjers/Dual-FDM?style=flat-square&logo=github"/>
 
 </td>
 
@@ -77,6 +78,7 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 [📄 **Paper**](https://openreview.net/forum?id=5VmjFzoHG2)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [💻 **Code**](https://github.com/htyjers/NTN-Diff)
+<img src="https://img.shields.io/github/stars/htyjers/NTN-Diff?style=flat-square&logo=github"/>
 
 </td>
 
@@ -107,6 +109,7 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 [📄 **Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Structure_Matters_Tackling_the_Semantic_Discrepancy_in_Diffusion_Models_for_CVPR_2024_paper.html)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [💻 **Code**](https://github.com/htyjers/StrDiffusion)
+<img src="https://img.shields.io/github/stars/htyjers/StrDiffusion?style=flat-square&logo=github"/>
 
 </td>
 
@@ -137,6 +140,7 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 [📄 **Paper**](https://arxiv.org/abs/2209.08217)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [💻 **Code**](https://github.com/htyjers/DGTS-Inpainting)
+<img src="https://img.shields.io/github/stars/htyjers/DGTS-Inpainting?style=flat-square&logo=github"/>
 
 </td>
 
