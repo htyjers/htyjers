@@ -2,7 +2,6 @@
 
 # Haipeng Liu
 
-**Computer Vision · Diffusion Models · Personalized Image Generation**
 
 </div>
 
