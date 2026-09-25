@@ -38,11 +38,9 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 
 <td width="58%" valign="middle">
 
-### Disentangling Dual Image References in Frequency Aware Diffusion Models for Personalized Generation
+### [NeurIPS 2026] Disentangling Dual Image References in Frequency Aware Diffusion Models for Personalized Generation
 
 **Haipeng Liu**, Yang Wang*, Meng Wang
-
-**NeurIPS 2026** · Sydney, Australia
 
 [📄 **Paper**](https://openreview.net/forum?id=l5xRQDiYkv)
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -69,11 +67,9 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 
 <td width="58%" valign="middle">
 
-### One Stone with Two Birds: A Null-Text-Null Frequency-Aware Diffusion Models for Text-Guided Image Inpainting
+### [NeurIPS 2025] One Stone with Two Birds: A Null-Text-Null Frequency-Aware Diffusion Models for Text-Guided Image Inpainting
 
 **Haipeng Liu**†, Yang Wang†*, Meng Wang
-
-**NeurIPS 2025** · San Diego, USA
 
 [📄 **Paper**](https://openreview.net/forum?id=5VmjFzoHG2)
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -100,11 +96,10 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 
 <td width="58%" valign="middle">
 
-### Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting
+### [CVPR 2024]  Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting
 
 **Haipeng Liu**, Yang Wang*, Biao Qian, Meng Wang, Yong Rui
 
-**CVPR 2024** · Seattle, USA
 
 [📄 **Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Structure_Matters_Tackling_the_Semantic_Discrepancy_in_Diffusion_Models_for_CVPR_2024_paper.html)
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -131,11 +126,10 @@ Hi~ 👋 I am a researcher working on **computer vision**, with a focus on
 
 <td width="58%" valign="middle">
 
-### Delving Globally into Texture and Structure for Image Inpainting
+### [ACM Multimedia 2022]  Delving Globally into Texture and Structure for Image Inpainting
 
 **Haipeng Liu**, Yang Wang*, Meng Wang, Yong Rui
 
-**ACM Multimedia 2022** · Lisbon, Portugal
 
 [📄 **Paper**](https://arxiv.org/abs/2209.08217)
 &nbsp;&nbsp;·&nbsp;&nbsp;
